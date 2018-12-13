@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_C3G1AP7kEeiVk6ws91QFoQ">
+    <contextParameter comment="" name="properties_file_path" prompt="properties_file_path?" promptNeeded="false" type="id_String" value="&quot;C:/Users/KumarS2/Desktop/CMDB/config_files_for_jobs&quot;" xmi:id="_C3G1Af7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Av7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1A_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="password" prompt="password?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1BP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Bf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="database" prompt="database?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Bv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="zip_file_directory" prompt="zip_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1B_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="expanded_file_directory" prompt="expanded_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1CP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="error_file_directory" prompt="error_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Cf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="archive_file_directory" prompt="archive_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Cv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="customer_input_file" prompt="customer_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1C_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="service_input_file" prompt="service_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1DP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="circuit_input_file" prompt="circuit_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Df7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="qos_input_file" prompt="qos_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Dv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="location_input_file" prompt="location_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1D_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="node_input_file" prompt="node_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1EP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="olo_input_file" prompt="olo_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Ef7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ea_input_file" prompt="ea_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Ev7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="error_file_name" prompt="error_file_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1E_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="customer_table_name" prompt="customer_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1FP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="Business_service_table_name" prompt="Business_service_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Ff7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="circuit_table_name" prompt="circuit_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Fv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="qos_table_name" prompt="qos_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1F_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="location_table_name" prompt="location_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1GP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="node_table_name" prompt="node_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Gf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="olo_table_name" prompt="olo_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Gv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="physical_port_table_name" prompt="physical_port_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1G_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ea_table_name" prompt="ea_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1HP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="slot_table_name" prompt="slot_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Hf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="shelf_table_name" prompt="shelf_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Hv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="card_table_name" prompt="card_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1H_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="vrf_table_name" prompt="vrf_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1IP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="u_account_alias_table_name" prompt="u_account_alias_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1If7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="cmdb_rel_ci_table_name" prompt="cmdb_rel_ci_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Iv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="interface_table_name" prompt="interface_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1I_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="site_table_name" prompt="site_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1JP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="product_table_name" prompt="product_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Jf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="filename" prompt="filename?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Jv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ckt_file_data" prompt="ckt_file_data?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1J_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="bs_file_path" prompt="bs_file_path?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1KP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="stub_ckt_file_path" prompt="stub_ckt_file_path?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Kf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="report_file" prompt="report_file?" promptNeeded="false" type="id_String" value="&quot;C:/Users/KumarS2/Desktop/CMDB/config_files_for_jobs/REPORT.csv&quot;" xmi:id="_C3G1Kv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="related_ckt_filename" prompt="related_ckt_filename?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1K_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_country_ref" prompt="uk_country_ref?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1LP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ref_pop_tier" prompt="ref_pop_tier?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Lf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ref_blueprint" prompt="ref_blueprint?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Lv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ref_contract" prompt="ref_contract?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1L_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_ref_itsm_enabled_customer" prompt="uk_ref_itsm_enabled_customer?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1MP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_device_func_device_ref" prompt="uk_device_func_device_ref?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Mf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_ref_product_default_bp" prompt="uk_ref_product_default_bp?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Mv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_bp_instantiation" prompt="uk_bp_instantiation?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1M_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_bluprint_audit" prompt="uk_bluprint_audit?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1NP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_ref_business_service" prompt="uk_ref_business_service?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Nf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="odf_source" prompt="odf_source?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Nv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_circuit_olo" prompt="uk_circuit_olo?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1N_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ipapp_input_file" prompt="ipapp_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1OP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ipapp_table_name" prompt="ipapp_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Of7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="service_model_table" prompt="service_model_table?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Ov7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="zip_file_name" prompt="zip_file_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1O_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ast_contract_table_name" prompt="ast_contract_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1PP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="contract_rel_ci_table_name" prompt="contract_rel_ci_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Pf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_ref_device_func_alias" prompt="uk_ref_device_func_alias?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Pv7kEeiVk6ws91QFoQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Prod" xmi:id="_C3G1P_7kEeiVk6ws91QFoQ">
+    <contextParameter comment="" name="properties_file_path" prompt="properties_file_path?" promptNeeded="false" type="id_String" value="&quot;/opt/SP/projects/vpn_plus/properties&quot;" xmi:id="_C3G1QP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Qf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Qv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="password" prompt="password?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Q_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1RP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="database" prompt="database?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Rf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="zip_file_directory" prompt="zip_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Rv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="expanded_file_directory" prompt="expanded_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1R_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="error_file_directory" prompt="error_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1SP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="archive_file_directory" prompt="archive_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Sf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="customer_input_file" prompt="customer_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Sv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="service_input_file" prompt="service_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1S_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="circuit_input_file" prompt="circuit_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1TP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="qos_input_file" prompt="qos_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Tf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="location_input_file" prompt="location_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Tv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="node_input_file" prompt="node_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1T_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="olo_input_file" prompt="olo_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1UP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ea_input_file" prompt="ea_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Uf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="error_file_name" prompt="error_file_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Uv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="customer_table_name" prompt="customer_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1U_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="Business_service_table_name" prompt="Business_service_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1VP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="circuit_table_name" prompt="circuit_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Vf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="qos_table_name" prompt="qos_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Vv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="location_table_name" prompt="location_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1V_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="node_table_name" prompt="node_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1WP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="olo_table_name" prompt="olo_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Wf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="physical_port_table_name" prompt="physical_port_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Wv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ea_table_name" prompt="ea_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1W_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="slot_table_name" prompt="slot_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1XP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="shelf_table_name" prompt="shelf_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Xf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="card_table_name" prompt="card_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Xv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="vrf_table_name" prompt="vrf_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1X_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="u_account_alias_table_name" prompt="u_account_alias_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1YP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="cmdb_rel_ci_table_name" prompt="cmdb_rel_ci_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Yf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="interface_table_name" prompt="interface_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Yv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="site_table_name" prompt="site_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Y_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="product_table_name" prompt="product_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1ZP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="filename" prompt="filename?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Zf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ckt_file_data" prompt="ckt_file_data?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Zv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="bs_file_path" prompt="bs_file_path?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1Z_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="stub_ckt_file_path" prompt="stub_ckt_file_path?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1aP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="report_file" prompt="report_file?" promptNeeded="false" type="id_String" value="&quot;/opt/SP/projects/vpn_plus/REPORT.csv&quot;" xmi:id="_C3G1af7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="related_ckt_filename" prompt="related_ckt_filename?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1av7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_country_ref" prompt="uk_country_ref?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1a_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ref_pop_tier" prompt="ref_pop_tier?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1bP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ref_blueprint" prompt="ref_blueprint?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1bf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ref_contract" prompt="ref_contract?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1bv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_ref_itsm_enabled_customer" prompt="uk_ref_itsm_enabled_customer?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1b_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_device_func_device_ref" prompt="uk_device_func_device_ref?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1cP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_ref_product_default_bp" prompt="uk_ref_product_default_bp?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1cf7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_bp_instantiation" prompt="uk_bp_instantiation?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1cv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_bluprint_audit" prompt="uk_bluprint_audit?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1c_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_ref_business_service" prompt="uk_ref_business_service?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1dP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="odf_source" prompt="odf_source?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1df7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_circuit_olo" prompt="uk_circuit_olo?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1dv7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ipapp_input_file" prompt="ipapp_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1d_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ipapp_table_name" prompt="ipapp_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1eP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="service_model_table" prompt="service_model_table?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1ef7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="zip_file_name" prompt="zip_file_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1ev7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="ast_contract_table_name" prompt="ast_contract_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1e_7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="contract_rel_ci_table_name" prompt="contract_rel_ci_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1fP7kEeiVk6ws91QFoQ"/>
+    <contextParameter comment="" name="uk_ref_device_func_alias" prompt="uk_ref_device_func_alias?" promptNeeded="false" type="id_String" value="" xmi:id="_C3G1ff7kEeiVk6ws91QFoQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_0f9af428-8931-4b40-8ed1-aae746b15bef"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>mXtBG8pEvi/mzdw/BMDimTUCyOlsmtWvAvGTJNBRhkk7DmmLtKeq9XpKec+gxKlgJuH6+QRXfuDT
+u5e0r8PlFw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_45bfe2a4-5783-4f86-a612-b9f543a493a1"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>YRvLdoqDp9H/K9+ytkoDzu0vW695YAu1AJofYp+k+uMQcLLyOCrkMpvzVn4+RWXqzBfXzHemKOFD
+B2sOdwRVHA==</DigestValue></Reference></SignedInfo><SignatureValue>FNv9h45FT0tb+4nk1sS92D8Ik1Dfy+E2knZ48bFkyu57sNaIsdOToRxiM0XhFR/045YTBufG81M/
++rzj/Q0/mRVpCxDjFs+HYCtpa1B71a94nweca8EkH1inTah5pnQtAdhlveIdSFTmZIy22Wr4cNuu
+xl46I/oAQMM6EHh2DfXT7SdqGCdFiZ5gTf1wNOcAGtxbDJiNbhxMrrQQis8ShBnlgFoXtldgxOof
+05lR/DAK/Kxws5MKUXuWfBZIB3xHXokUiF5ehrfnU31EXHUBpcVKdA4h16v5kQYge5peN+IJ5N96
+6kjkMM3vnzQtvAn3s+HY8qbPe6w5Pin29C/KZw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
+RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
+LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
+VQQIDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1ImRDEpMCcGA1UEAwwg
+RGVmYXVsdCBjb2RlLXNpZ25pbmcgY2VydGlmaWNhdGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDiCz1II/o6hDUWu/ygxTCT2o/fYxVzPW23AoONQC/Vuiqh0COyLIgaMTjBPmQdTQFq
+rmM5tD64gi4TEQF+Z3iYt3daLdQUfaW9SzaMlY+XVNz5xnMBVDuiSHJSFE9lKnhgbKAHvOeoJo46
+UgWwb1za0WpRckDtjKcntwEK1orZCgrcIo1nDvFXyB5n0KfpLyktEOa0bSHde50MPbvQeB66XlEb
+lhjfs5S9WnAUja9RgqdwqZoI0ss+x/pjkQygDT8f17MktM21HOtg09lJlhMGJckhgD7jUF5tfYGM
+sv/O27g5CToFhxOnutDtsrDw7AkEQIml8KJp97bQLAFlLnh1AgMBAAGjge0wgeowHQYDVR0OBBYE
+FFzdy6ZfpUX8JwkM/SUrqkwLNqWAMB8GA1UdIwQYMBaAFOd9C3L8tYGZxoAr2SzsgnMytaj3MAsG
+A1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAJBgNVHRMEAjAAMHsGCWCGSAGG+EIBDQRu
+FmxEZWZhdWx0IHRoaXJkIHBhcnR5IGNvZGUtc2lnbmluZyBjZXJ0aWZpY2F0ZS4gTm8gY29tbWl0
+bWVudCBpcyBtYWRlIG9uIHRoZSBjb250ZW50IHNpZ25lZCBieSB0aGUgdGhpcmQgcGFydHkwDQYJ
+KoZIhvcNAQELBQADggIBAKzYdnzoFgrRtDLSSzWtwuOrGo5+1RPoDHm/1dlbVnB7oZzUwfRGwZT5
+ser0V7OZyt9wWR8iQ2ka30fHWrNAosNtlIkF88s5YZw7OOIMxR+qYA99BnWLa79DZVIuukI2f5qJ
+Cr9nw6Oygo8CWeNMWhtXcvV4gqROhb2QMBrvWBw9QvNK1XMdtPShfWiXwyPzzRKgwqrN2meXtOY3
+S+MXu6u+RUD9EYeElp9M+9Yp+zRySl5/s+0sbvo7qz369dlsw8XhKXT+s4YQQe3Sx14Kg3SDFXKn
+QcVgycaZMOw4YUxOeP2hKOHnNuOMORfu3qlYkN/0RMGjn6r4PU4+yL276TiWI5b8J06y4leng2as
+r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
+EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
+BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
+6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_45bfe2a4-5783-4f86-a612-b9f543a493a1" Target="#_0f9af428-8931-4b40-8ed1-aae746b15bef"><Timestamp>2018-12-13 15:33:23</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

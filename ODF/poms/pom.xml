@@ -15,6 +15,7 @@
     <module>jobs/process/CMDB/CramerExtn/Dev_Unix/cramer_ext_master_0.1</module>
     <module>jobs/process/CMDB/DLM/Dev_Local/dlm_etl_1.0</module>
     <module>jobs/process/CMDB/INTERNET/Dev_Local/internet_v1_0.1</module>
+    <module>jobs/process/CMDB/CHANGE/change_data_uk_1_0.1</module>
   </modules>
   <properties>
     <talend.project.name>ODF</talend.project.name>

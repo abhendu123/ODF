@@ -17,6 +17,7 @@
     <module>jobs/process/CMDB/INTERNET/Dev_Local/internet_v1_0.1</module>
     <module>jobs/process/CMDB/CHANGE/change_data_uk_1_0.1</module>
     <module>jobs/process/CMDB/MORI/Dev/mori_code_v1_uplift_7.0</module>
+    <module>jobs/process/CMDB/OSN2/Dev/osn2_master_v1_uplift_0.1</module>
   </modules>
   <properties>
     <talend.project.name>ODF</talend.project.name>

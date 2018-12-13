@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_6OqmQP7oEeiVk6ws91QFoQ" xmi:version="2.0">
+  <contextParameter comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmQf7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmQv7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="password" prompt="password?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmQ_7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmRP7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="database" prompt="database?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmRf7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="zip_file_directory" prompt="zip_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmRv7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="expanded_file_directory" prompt="expanded_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmR_7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="error_file_directory" prompt="error_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmSP7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="osn2_input_file" prompt="osn2_input_file?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmSf7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="error_file_name" prompt="error_file_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmSv7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="location_table_name" prompt="location_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmS_7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="cmdb_rel_ci_table_name" prompt="cmdb_rel_ci_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmTP7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="blueprint_table_name" prompt="blueprint_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmTf7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="technical_service_table_name" prompt="technical_service_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmTv7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="cmdb_ci_table_name" prompt="cmdb_ci_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmT_7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="blueprint_instant_table_name" prompt="blueprint_instant_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmUP7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="site_table_name" prompt="site_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmUf7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="Please change according to environment" name="properties_file_path" prompt="properties_file_path?" promptNeeded="false" type="id_String" value="&quot;C:/Users/KumarS2/Desktop/CMDB/config_files_for_jobs&quot;" xmi:id="_6OqmUv7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="customer_table_name" prompt="customer_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmU_7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="product_table_name" prompt="product_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmVP7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="telephone_table_name" prompt="telephone_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmVf7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="ref_business_service_table_name" prompt="ref_business_service_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmVv7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="contract_table_name" prompt="contract_table_name?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmV_7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="odf_source" prompt="odf_source?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmWP7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="archive_file_directory" prompt="archive_file_directory?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmWf7oEeiVk6ws91QFoQ"/>
+  <contextParameter comment="" name="ref_bp_inst_exclusion" prompt="ref_bp_inst_exclusion?" promptNeeded="false" type="id_String" value="" xmi:id="_6OqmWv7oEeiVk6ws91QFoQ"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_40362763-b2df-4fe4-b7b1-2c8cf4f204d6"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ey1uRYx2KrtmdGFaTnQFBO8I5LdlfO406V1Lw3trlUBl9UgdQcyU7EG+JLjgpwqvY8sDaiMHJJCR
+6QNXmgFgBA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_b4c58cb5-d70a-483a-a460-99ea30c9f63d"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>WcU0dah18XK8bVy4iSONWhNEYGrSlt+EDQ6kIZ3/gv0x1tUWdBGBzdMFUFd2UnwW9PujrzBb4ilF
+uzXxqWhBmA==</DigestValue></Reference></SignedInfo><SignatureValue>ULZibufOdgiiS7oxv1KlYPEkqLfo+HEUnnudigFjR4cTlxXpkRGA/MxRbomLPv1GvNMBOuvdJdYT
+SFTzJXWrWOlyqHlhcRiq2ntqm1DtH3/RiJxrCbVmpgBUeC2uROZ5bqvgpw+LmXGNSLA9wYxFj59r
+3kKP6LX73AlovSTwuD3uvWXCGW11MoGrGSMUyP8oSonX33jodXeOFxwLl/l8jWVlZNEdRIsvgX0H
+8SQ10TKH6MFPimUxoCw0AOsWDcMvqsfVjUxzSljVtD296DgFYXo81+QMKkyIn7CM5fgoOHJvuYFE
+ONI8EWFJBjtJh+LiQ6qU1SaJ50hH+bwFUW0K+g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
+RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
+LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
+VQQIDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1ImRDEpMCcGA1UEAwwg
+RGVmYXVsdCBjb2RlLXNpZ25pbmcgY2VydGlmaWNhdGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDiCz1II/o6hDUWu/ygxTCT2o/fYxVzPW23AoONQC/Vuiqh0COyLIgaMTjBPmQdTQFq
+rmM5tD64gi4TEQF+Z3iYt3daLdQUfaW9SzaMlY+XVNz5xnMBVDuiSHJSFE9lKnhgbKAHvOeoJo46
+UgWwb1za0WpRckDtjKcntwEK1orZCgrcIo1nDvFXyB5n0KfpLyktEOa0bSHde50MPbvQeB66XlEb
+lhjfs5S9WnAUja9RgqdwqZoI0ss+x/pjkQygDT8f17MktM21HOtg09lJlhMGJckhgD7jUF5tfYGM
+sv/O27g5CToFhxOnutDtsrDw7AkEQIml8KJp97bQLAFlLnh1AgMBAAGjge0wgeowHQYDVR0OBBYE
+FFzdy6ZfpUX8JwkM/SUrqkwLNqWAMB8GA1UdIwQYMBaAFOd9C3L8tYGZxoAr2SzsgnMytaj3MAsG
+A1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAJBgNVHRMEAjAAMHsGCWCGSAGG+EIBDQRu
+FmxEZWZhdWx0IHRoaXJkIHBhcnR5IGNvZGUtc2lnbmluZyBjZXJ0aWZpY2F0ZS4gTm8gY29tbWl0
+bWVudCBpcyBtYWRlIG9uIHRoZSBjb250ZW50IHNpZ25lZCBieSB0aGUgdGhpcmQgcGFydHkwDQYJ
+KoZIhvcNAQELBQADggIBAKzYdnzoFgrRtDLSSzWtwuOrGo5+1RPoDHm/1dlbVnB7oZzUwfRGwZT5
+ser0V7OZyt9wWR8iQ2ka30fHWrNAosNtlIkF88s5YZw7OOIMxR+qYA99BnWLa79DZVIuukI2f5qJ
+Cr9nw6Oygo8CWeNMWhtXcvV4gqROhb2QMBrvWBw9QvNK1XMdtPShfWiXwyPzzRKgwqrN2meXtOY3
+S+MXu6u+RUD9EYeElp9M+9Yp+zRySl5/s+0sbvo7qz369dlsw8XhKXT+s4YQQe3Sx14Kg3SDFXKn
+QcVgycaZMOw4YUxOeP2hKOHnNuOMORfu3qlYkN/0RMGjn6r4PU4+yL276TiWI5b8J06y4leng2as
+r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
+EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
+BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
+6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_b4c58cb5-d70a-483a-a460-99ea30c9f63d" Target="#_40362763-b2df-4fe4-b7b1-2c8cf4f204d6"><Timestamp>2018-12-13 16:08:12</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>

@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>jobs/process/CMDB/IPVPN/Dev_Local/cramer_data_uk_market_ipvpn_v8_0.1</module>
     <module>jobs/process/CMDB/EVPN/Dev/cramer_data_uk_market_evpn_v1_7.0</module>
+    <module>jobs/process/CMDB/CramerExtn/Dev_Unix/cramer_ext_master_0.1</module>
   </modules>
   <properties>
     <talend.project.name>ODF</talend.project.name>
